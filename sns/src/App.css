@@ -1,0 +1,49 @@
+.Head{
+border: 1px;
+border-color: black;
+border-style: solid;
+text-align: center;
+font-family: 'Cinzel', serif;
+font-weight: lighter;
+font-size: 400%;
+}
+p{
+  font-weight: lighter;
+  color:black;
+}
+nav {
+  background-color: lightgray;
+}
+.nav {
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10.45%;
+  padding-right: 10.5%;
+  display: inline-block;
+  justify-content: center;
+  background-color: lightgray;
+}
+
+.snob{
+  font-style: 'Pacifico', cursive;
+  color:#ab20fd;
+}
+.slob{
+  font-style: 'Cedarville Cursive', cursive;
+  color: yellowgreen;
+  font-weight: bold;
+}
+.Home {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  /* margin-top: 5%; */
+
+}
+h3 {
+  text-align: center;
+}
+.section{
+  background-color: rgba(211, 211, 211, .3)
+}
