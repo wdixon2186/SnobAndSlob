@@ -1,8 +1,11 @@
 import React from 'react';
 import '../App.css';
+import Current from '../Current/Current';
 
 function Home() {
   return (
+    <div>
+      <Current />
       <div className="section">
     <div className="Home">
         <h3>The Story</h3>
@@ -22,6 +25,7 @@ function Home() {
     way. We hope you join us for what is sure to be an hour and
     a half worth of groans and ughs upon hearing our diagnosis
     on the relevant topics each given week.</p>
+    </div>
     </div>
     </div>
   );

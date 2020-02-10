@@ -2,10 +2,9 @@ import React from 'react';
 import '../App.css';
 import Header from '../Header/Header'
 
-function App() {
+function About() {
   return (
       <div>
-          <Header />
       <div className="section">
     <div className="Home">
         <h3>The Podcast</h3>
@@ -16,8 +15,6 @@ function App() {
         the films we are seeing and want to talk about. 
     </p>
     </div>
-    </div>
-    <div className="section">
     <div className="Home">
         <h3>Who are we?</h3>
     <p className="we">
@@ -40,4 +37,4 @@ function App() {
   );
 }
 
-export default App;
+export default About;
