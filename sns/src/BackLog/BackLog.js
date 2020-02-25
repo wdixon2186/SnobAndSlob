@@ -50,6 +50,8 @@ export default class BackLog extends Component {
     let backlog = filtered.map(episode => {
       return (
         <div key={episode.title}>
+
+           <audio ref="audio_tag" src='https://www.spreaker.com/user/10398271/sns-avengers' controls autoPlay />
           <p>
             {/* Link to individual city pages */}
             <Link to={`/show/${episode.title}`}>
