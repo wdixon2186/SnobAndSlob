@@ -8,10 +8,10 @@ function Header() {
       <header>
         {" "}
         <div className="Head">
-          <p>
+          {/* <p>
             The <span className="snob">Snob</span> and The{" "}
             <span className="slob">Slob</span>
-          </p>
+          </p> */}
         </div>
       </header>
       <nav>
@@ -26,10 +26,6 @@ function Header() {
         <div className="nav">
           {" "}
           <Link to={"/backlog"}>Back Log</Link>
-        </div>
-        <div className="nav">
-          {" "}
-          <Link to={"/contact"}>Contact</Link>
         </div>
       </nav>
     </div>
