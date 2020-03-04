@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "wdixon2186.github.io/SnobAndSlob/static/css/main.6d0a778d.chunk.css",
+    "main.js": "wdixon2186.github.io/SnobAndSlob/static/js/main.3d176bc6.chunk.js",
+    "main.js.map": "wdixon2186.github.io/SnobAndSlob/static/js/main.3d176bc6.chunk.js.map",
+    "runtime-main.js": "wdixon2186.github.io/SnobAndSlob/static/js/runtime-main.dd287461.js",
+    "runtime-main.js.map": "wdixon2186.github.io/SnobAndSlob/static/js/runtime-main.dd287461.js.map",
+    "static/js/2.327aca84.chunk.js": "wdixon2186.github.io/SnobAndSlob/static/js/2.327aca84.chunk.js",
+    "static/js/2.327aca84.chunk.js.map": "wdixon2186.github.io/SnobAndSlob/static/js/2.327aca84.chunk.js.map",
+    "index.html": "wdixon2186.github.io/SnobAndSlob/index.html",
+    "precache-manifest.a9b909d335b7e9384bd4915ce15161f3.js": "wdixon2186.github.io/SnobAndSlob/precache-manifest.a9b909d335b7e9384bd4915ce15161f3.js",
+    "service-worker.js": "wdixon2186.github.io/SnobAndSlob/service-worker.js",
+    "static/css/main.6d0a778d.chunk.css.map": "wdixon2186.github.io/SnobAndSlob/static/css/main.6d0a778d.chunk.css.map",
+    "static/js/2.327aca84.chunk.js.LICENSE.txt": "wdixon2186.github.io/SnobAndSlob/static/js/2.327aca84.chunk.js.LICENSE.txt",
+    "static/media/App.css": "wdixon2186.github.io/SnobAndSlob/static/media/Head.b793456e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd287461.js",
+    "static/js/2.327aca84.chunk.js",
+    "static/css/main.6d0a778d.chunk.css",
+    "static/js/main.3d176bc6.chunk.js"
+  ]
+}
