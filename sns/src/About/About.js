@@ -1,5 +1,6 @@
 import React from "react";
 import "../App.css";
+import Contact from '../Contact/Contact'
 
 function About() {
   return (
@@ -15,6 +16,7 @@ function About() {
         </div>
         <div className="Home">
           <h3>Who are we?</h3>
+          <img className="cali" src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-9/549298_4929457227338_1845315861_n.jpg?_nc_cat=104&_nc_sid=210fed&_nc_ohc=p8JxxQU-crcAX-yC0h4&_nc_ht=scontent.fapa1-2.fna&oh=3b4c98b8baebf1d313e42827cf35aa0d&oe=5E95EB8B"></img>
           <p className="we">
             The Snob references William Dixon, a movie lover and maker, who
             professionally is a web developer. This website was actually made by
@@ -29,6 +31,7 @@ function About() {
             about movies.
           </p>
         </div>
+        <Contact />
       </div>
     </div>
   );
