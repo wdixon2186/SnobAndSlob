@@ -20,7 +20,7 @@ function About() {
           <p className="we">
             The Snob references William Dixon (Blue hoodie), a movie lover and maker, who
             professionally is a web developer. This website was actually made by
-            him so as you see imporvements over time, that's just him getting
+            him so as you see improvements over time, that's just him getting
             better at his craft.
             <br></br>
             <br></br>
