@@ -8,10 +8,6 @@ function Header() {
       <header>
         {" "}
         <div className="Head">
-          {/* <p>
-            The <span className="snob">Snob</span> and The{" "}
-            <span className="slob">Slob</span>
-          </p> */}
         </div>
       </header>
       <nav>

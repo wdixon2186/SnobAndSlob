@@ -26,18 +26,6 @@ class App extends Component {
           <Route path="/SnobAndSlob/" exact={true} component={Home} />
           <Route path="/SnobAndSlob/about" component={About} />
           <Route path="/SnobAndSlob/backlog" component={BackLog} />
-          <Route path="/SnobAndSlob/contact" component={Contact} />
-          <Route
-            path="/SnobAndSlob/show/:title" component={Show}
-            // render={routerProps => (
-            //   <Show
-            //     match={routerProps.match}
-            //     setName={this.setName}
-            //     episode={this.setState.episode}
-            //     episodeName={this.state.episode}
-            //   />
-            // )}
-          />
           <Home />
         </Switch>
       </div>

@@ -20,7 +20,7 @@ function Home() {
     Each week, we plan on discussing what it is that we believe
     needs to be said about film at that given time with an
     emphasis on new releases. The hope is that you walk away
-    not only learning something new about movies each week, but
+    not only learning something new about movies every other week, but
     also learning a little something about yourself along the
     way. We hope you join us for what is sure to be an hour and
     a half worth of groans and ughs upon hearing our diagnosis
