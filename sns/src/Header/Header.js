@@ -17,15 +17,15 @@ function Header() {
       <nav>
         <div className="nav">
           {" "}
-          <Link to={"/"}>Home</Link>
+          <Link to={"/SnobAndSlob/"}>Home</Link>
         </div>
         <div className="nav">
           {" "}
-          <Link to={"/about"}>About</Link>
+          <Link to={"/SnobAndSlob/about"}>About</Link>
         </div>
         <div className="nav">
           {" "}
-          <Link to={"/backlog"}>Back Log</Link>
+          <Link to={"/SnobAndSlob/backlog"}>Back Log</Link>
         </div>
       </nav>
     </div>
