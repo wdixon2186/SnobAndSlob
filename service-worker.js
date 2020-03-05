@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SnobAndSlob/precache-manifest.d36e7f5e28d9339d8f11b901773d9965.js"
+  "/SnobAndSlob/precache-manifest.f11eb6dd0610cbfda54f3ee6dbe43f3e.js"
 );
 
 self.addEventListener('message', (event) => {

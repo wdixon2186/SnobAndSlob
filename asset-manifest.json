@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SnobAndSlob/static/css/main.932fdc82.chunk.css",
-    "main.js": "/SnobAndSlob/static/js/main.32a58139.chunk.js",
-    "main.js.map": "/SnobAndSlob/static/js/main.32a58139.chunk.js.map",
+    "main.js": "/SnobAndSlob/static/js/main.edc655c6.chunk.js",
+    "main.js.map": "/SnobAndSlob/static/js/main.edc655c6.chunk.js.map",
     "runtime-main.js": "/SnobAndSlob/static/js/runtime-main.80404a56.js",
     "runtime-main.js.map": "/SnobAndSlob/static/js/runtime-main.80404a56.js.map",
     "static/js/2.327aca84.chunk.js": "/SnobAndSlob/static/js/2.327aca84.chunk.js",
     "static/js/2.327aca84.chunk.js.map": "/SnobAndSlob/static/js/2.327aca84.chunk.js.map",
     "index.html": "/SnobAndSlob/index.html",
-    "precache-manifest.d36e7f5e28d9339d8f11b901773d9965.js": "/SnobAndSlob/precache-manifest.d36e7f5e28d9339d8f11b901773d9965.js",
+    "precache-manifest.f11eb6dd0610cbfda54f3ee6dbe43f3e.js": "/SnobAndSlob/precache-manifest.f11eb6dd0610cbfda54f3ee6dbe43f3e.js",
     "service-worker.js": "/SnobAndSlob/service-worker.js",
     "static/css/main.932fdc82.chunk.css.map": "/SnobAndSlob/static/css/main.932fdc82.chunk.css.map",
     "static/js/2.327aca84.chunk.js.LICENSE.txt": "/SnobAndSlob/static/js/2.327aca84.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.80404a56.js",
     "static/js/2.327aca84.chunk.js",
     "static/css/main.932fdc82.chunk.css",
-    "static/js/main.32a58139.chunk.js"
+    "static/js/main.edc655c6.chunk.js"
   ]
 }

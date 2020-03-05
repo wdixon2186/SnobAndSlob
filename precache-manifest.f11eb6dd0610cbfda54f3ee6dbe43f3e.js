@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30076cdfa406c3d7b98578a7e521d478",
+    "revision": "3000e926f302d0ad8fdf8ceaff12320e",
     "url": "/SnobAndSlob/index.html"
   },
   {
-    "revision": "b443be2a4c509cf4b145",
+    "revision": "cadb72009e853a720306",
     "url": "/SnobAndSlob/static/css/main.932fdc82.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SnobAndSlob/static/js/2.327aca84.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b443be2a4c509cf4b145",
-    "url": "/SnobAndSlob/static/js/main.32a58139.chunk.js"
+    "revision": "cadb72009e853a720306",
+    "url": "/SnobAndSlob/static/js/main.edc655c6.chunk.js"
   },
   {
     "revision": "dcad75d6f5d352a28610",
