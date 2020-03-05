@@ -23,12 +23,12 @@ class App extends Component {
       <div>
         <Header />
         <Switch>
-          <Route path="/" exact={true} component={Home} />
-          <Route path="/about" component={About} />
-          <Route path="/backlog" component={BackLog} />
-          <Route path="/contact" component={Contact} />
+          <Route path="/SnobAndSlob/" exact={true} component={Home} />
+          <Route path="/SnobAndSlob/about" component={About} />
+          <Route path="/SnobAndSlob/backlog" component={BackLog} />
+          <Route path="/SnobAndSlob/contact" component={Contact} />
           <Route
-            path="/show/:title" component={Show}
+            path="/SnobAndSlob/show/:title" component={Show}
             // render={routerProps => (
             //   <Show
             //     match={routerProps.match}
@@ -38,6 +38,7 @@ class App extends Component {
             //   />
             // )}
           />
+          <Home />
         </Switch>
       </div>
     );
